@@ -1,6 +1,6 @@
-# d0009e - Introduction to programming
+# D0009e - Introduction to programming
 ## Labs
-#### Lab 1 - Arithmetic and printing
-#### Lab 2 - Recursion and iteration
-#### Lab 3 - strings, lists, and dictionaries
-#### Lab 4 - Files, aliases, exceptions ...
+#### Lab_1 - Arithmetic and printing
+#### Lab_2 - Recursion and iteration
+#### Lab_3 - strings, lists, and dictionaries
+#### Lab_4 - Files, aliases, exceptions ...
