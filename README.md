@@ -1,4 +1,4 @@
-# D0009e - Introduction to programming
+# D0009e 
 ## Labs
 #### Lab_1 - Arithmetic and printing
 #### Lab_2 - Recursion and iteration
